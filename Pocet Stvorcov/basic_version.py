@@ -13,7 +13,7 @@ import turtle
 pero = turtle.Turtle()
 tabula = turtle.Screen()
 
-def štvorec(n):
+def stvorec(n):
     n = int(n)
     for j in range(n): # OPAKOVAŤ N-KRÁT
         for i in range(4): # ŠTVOREC
@@ -26,6 +26,6 @@ def štvorec(n):
         pero.right(180) # OTOČIŤ SA
         pero.pendown()
 
-štvorec(3) # POČET ŠTVORCOV
+stvorec(3) # POČET ŠTVORCOV
 
 tabula.mainloop() # PONECHAŤ OKNO OTVORENÉ
