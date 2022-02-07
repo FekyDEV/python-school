@@ -5,7 +5,7 @@
  * @authorId 603505971507101698
  * @version 1.0.0
  * @invite sKKEyUn
- * @source https://github.com/FekyDEV/python-school/edit/main/Pocet%20Stvorcov/advanced_version.py
+ * @source https://github.com/FekyDEV/python-school/edit/main/Pocet%20Stvorcov/basic_version.py
  * @license MIT
  """
 
